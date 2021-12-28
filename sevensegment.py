@@ -1,9 +1,10 @@
 import math
 
-sutun=5     
+sutun=5 #    
 satir=7 #
-sevensegment=[]
-oneline = [" "]*sutun
+sevensegment=[] #2d liste sayının gösterimi için
+oneline = [" "]*sutun #bir satir
+
 #2d boş liste oluşturrma
 for i in range(satir):
     sevensegment.append(oneline.copy())

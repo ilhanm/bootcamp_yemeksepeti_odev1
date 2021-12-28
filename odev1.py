@@ -125,7 +125,7 @@ Aşağıdaki üç farklı sözlüğü tek sözlükte birleştiren python kodunu 
 ## hex,bin,zfill, tek satırda if
 """
 # 
-#bu kodu sevensegment.py dosyası içine ayrı olarak yazdım.
+#bu kodu sevensegment.py dosyası içine ayrı olarak yazdım..
 #
 
 """[soru17] Bir listeyi bir sözlükte sıralamak için bir Python programı yazın
